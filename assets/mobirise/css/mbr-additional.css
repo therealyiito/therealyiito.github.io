@@ -904,19 +904,19 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rCxaWasNPI {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rCxaWasNPI P {
-  color: #767676;
-}
 .cid-rCxb6PBXJl {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rCxb6PBXJl .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rCxaWasNPI {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rCxaWasNPI P {
   color: #767676;
 }
